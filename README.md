@@ -10,7 +10,6 @@
 - [Practice: Push and Pull work from your repository](https://github.com/kellobri/rladies-dc-github-wkshp#practice-push-and-pull-workflow)
 - [Knit/Render Rmd as github_documents](https://github.com/kellobri/rladies-dc-github-wkshp#knitrender-rmarkdown-for-github)
 - [Make a Github Page](https://github.com/kellobri/rladies-dc-github-wkshp#github-pages)
-- Intro to Reprex? (Time Permitting)
 
 ### Resources
 
