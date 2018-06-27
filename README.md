@@ -2,20 +2,22 @@
 
 ## Activities for Today
 
-- Create a GitHub Account
-- Install/Configure Git
-- Interact with GitHub Issues
-- Make a Pull Request (on this repo)
-- Create a Git Repository for an R project
-- Practice: Push and Pull work from your repository
-- Knit/Render Rmd as github_documents
-- Make a Github Page
+- [Create a GitHub Account](https://github.com/)
+- [Install/Configure Git](https://github.com/kellobri/rladies-dc-github-wkshp#install-git)
+- [Interact with GitHub Issues](https://github.com/kellobri/rladies-dc-github-wkshp#github-issues)
+- [Make a Pull Request (on this repo)](https://github.com/kellobri/rladies-dc-github-wkshp#make-a-pull-request)
+- [Create a Git Repository for an R project](https://github.com/kellobri/rladies-dc-github-wkshp#create-a-git-repository)
+- [Practice: Push and Pull work from your repository](https://github.com/kellobri/rladies-dc-github-wkshp#practice-push-and-pull-workflow)
+- [Knit/Render Rmd as github_documents](https://github.com/kellobri/rladies-dc-github-wkshp#knitrender-rmarkdown-for-github)
+- [Make a Github Page](https://github.com/kellobri/rladies-dc-github-wkshp#github-pages)
 - Intro to Reprex? (Time Permitting)
 
 ### Resources
 
 - Bookdown Reference: [Happy Git with R (Jenny Bryan)](http://happygitwithr.com/)
 - Video Workshop (2017): [RStudio Git/GitHub Workshop (Jenny Bryan)](https://www.rstudio.com/resources/videos/happy-git-and-gihub-for-the-user-tutorial/)
+
+## Basics
 
 ### Install Git
 
@@ -62,6 +64,8 @@ Discussion: Advanced Collaboration Related Topics
 - Git client GUIs for helping to navigate merge conflicts
 - Try not to make "monster" commits
 
+## Git/GitHub with R - Presentability
+
 ### Knit/Render Rmarkdown for GitHub
 
 1. Add a default Rmd to your project
@@ -77,5 +81,16 @@ Discussion: Advanced Collaboration Related Topics
 4. (optional) Select a theme
 5. Visit your new site
 
+## More References
 
+### Git Panic! (Help Around Making Mistakes)
+
+- [Oh Shit, Git!](http://ohshitgit.com/)
+
+### Git Client Recommendations
+
+- RStudio IDE is a very lightweight git client. If you're serious about git collaboration with other people, I recommend getting a Git Client. 
+- Git Clients are great because they give you a GUI for untangling git messes
+- Which client you should use is largely operating system dependent
+- I don't have any personal recommendations - google: "best git clients" to get a sense of what's popular and try one out!
 
