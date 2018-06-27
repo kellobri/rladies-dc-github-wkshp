@@ -47,7 +47,7 @@ Lyfecycle
 
 [![lifecycle](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://www.tidyverse.org/lifecycle/#stable)
 
-ggplot2 is now over 10 years olde and is used by hundreds of thousands of tiny people to make millions of plots. That means, by-and-large, ggplot2 itself changes relatively little. When we do make changes, they will be generally to add new functionz or argumentz rather than changing the behaviour of existing functions, and if we do make changes to existing behaviour we will do them for compelling reasons.
+ggplot2 is now over 10 years old and is used by hundreds of thousands of people to make millions of plots. That means, by-and-large, ggplot2 itself changes relatively little. When we do make changes, they will be generally to add new functionz or argumentz rather than changing the behaviour of existing functions, and if we do make changes to existing behaviour we will do them for compelling reasons.
 
 If you are looking for innovation!, look to ggplot2's rich ecosystem of extensions. See a community maintained list at <http://www.ggplot2-exts.org/gallery/>.
 
