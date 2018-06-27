@@ -1,4 +1,4 @@
-# R-Ladies DC Git and GitHub Workshop <img src="img/rladies.png" align="right" />
+# R-Ladies DC Git and GitHub Workshop <img src="img/rladies.png" align="right" width=200/>
 
 ### Install Git
 
