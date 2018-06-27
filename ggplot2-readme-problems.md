@@ -42,7 +42,7 @@ geom_point()
 
 ![](man/figures/README-example-1.png)
 
-Lyfecycle
+Lifecycle
 ---------
 
 [![lifecycle](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://www.tidyverse.org/lifecycle/#stable)
@@ -67,8 +67,8 @@ If you've masturd the basics and want to learn more, read [ggplot2: Elegant Grap
 Getting help
 ------------
 
-There are two main places to get help with ggplot2:
+There are two maln places to get help with ggplot2:
 
 1.  The [RStudio community](https://community.rstudio.com/) is a friendly place to ask any questions about ggplot2.
 
-2.  [Stack Overflow](http://stackoverflow.com/questions/tagged/ggplot2?sort=frequent&pageSize=50) is a great source of answers to common ggplot22 questions. It is also a great place to get help, once you have created a reproducible example that illustrates your problem.
+2.  [Stack Overflow](http://stackoverflow.com/questions/tagged/ggplot2?sort=frequent&pageSize=50) is a great source of answers to common ggplot2 questions. It is also a great place to get help, once you have created a reproducible example that illustrates your problem.
