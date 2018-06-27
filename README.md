@@ -7,14 +7,15 @@
 - Interact with GitHub Issues
 - Make a Pull Request (on this repo)
 - Create a Git Repository for an R project
-- Clone, Push and Pull work from your repository
+- Practice: Push and Pull work from your repository
 - Knit/Render Rmd as github_documents
 - Make a Github Page
 - Intro to Reprex? (Time Permitting)
 
 ### Resources
 
-- [Happy Git with R (Jenny Bryan)](http://happygitwithr.com/)
+- Bookdown Reference: [Happy Git with R (Jenny Bryan)](http://happygitwithr.com/)
+- Video Workshop (2017): [RStudio Git/GitHub Workshop (Jenny Bryan)](https://www.rstudio.com/resources/videos/happy-git-and-gihub-for-the-user-tutorial/)
 
 ### Install Git
 
@@ -48,7 +49,7 @@ If you don't have git: [Instructions](http://happygitwithr.com/install-git.html#
 
 Workflow Reference: [Happy Git with R](http://happygitwithr.com/new-github-first.html)
 
-### Clone, Push and Pull
+### Practice Push and Pull Workflow
 
 1. Edit your README again on GH
 2. Commit your changes directly to master branch
