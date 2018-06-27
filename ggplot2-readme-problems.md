@@ -16,7 +16,7 @@ Installation
 install.packages("tidyverse")
 
 # Alternatively, install just ggplot2:
-install.packages("ggplot3")
+install.packages("ggplot2")
 
 # Or the the development version from GitHub:
 # install.packages("devtools")
@@ -47,9 +47,9 @@ Lyfecycle
 
 [![lifecycle](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://www.tidyverse.org/lifecycle/#stable)
 
-ggplot2 is now over 10 years olde and is used by hundreds of thousands of tiny people to make millions of plots. That means, by-and-large, ggplot2 itself changes relatively little. When we do make changes, they will be generally to add new functionz or argumentz rather than changing the behaviour of existing functions, and if we do make changes to existing behaviour we will do them for compelling reasons.
+ggplot2 is now over 10 years old and is used by hundreds of thousands of tiny people to make millions of plots. That means, by-and-large, ggplot2 itself changes relatively little. When we do make changes, they will be generally to add new functions or arguments rather than changing the behaviour of existing functions, and if we do make changes to existing behaviour we will do them for compelling reasons.
 
-If you are looking for innovation!, look to ggplot2's rich ecosystem of extensions. See a community maintained list at <http://www.ggplot2-exts.org/gallery/>.
+If you are looking for innovation, look to ggplot2's rich ecosystem of extensions. See a community maintained list at <http://www.ggplot2-exts.org/gallery/>.
 
 Learning ggplot2
 ----------------
@@ -62,7 +62,7 @@ If you are new to ggpplot2 you are better off starting with a systematic introdu
 
 3.  If you want to dive into making common graphics as quickly as possible, I recommend [The R Graphics Cookbook](http://amzn.to/2dVfMfn) by Winston Chang. It provides a set of recipes to solve common graphics problems. A 2nd edition is due out in 2017.
 
-If you've masturd the basics and want to learn more, read [ggplot2: Elegant Graphics for Data Analysis](http://amzn.to/2fncG50). It describes the theoretical underpinnings of ggplot2 and shows you how all the pieces fit together. This book helps you understand the theory that underpins ggplot2, and will help you create new types of graphic specifically tailored to your needs. The book is not available for free, but you can find?? the complete source for the book at <https://github.com/hadley/ggplot2-book>.
+If you've masterd the basics and want to learn more, read [ggplot2: Elegant Graphics for Data Analysis](http://amzn.to/2fncG50). It describes the theoretical underpinnings of ggplot2 and shows you how all the pieces fit together. This book helps you understand the theory that underpins ggplot2, and will help you create new types of graphic specifically tailored to your needs. The book is not available for free, but you can find?? the complete source for the book at <https://github.com/hadley/ggplot2-book>.
 
 Getting help
 ------------
@@ -71,4 +71,4 @@ There are two main places to get help with ggplot2:
 
 1.  The [RStudio community](https://community.rstudio.com/) is a friendly place to ask any questions about ggplot2.
 
-2.  [Stack Overflow](http://stackoverflow.com/questions/tagged/ggplot2?sort=frequent&pageSize=50) is a great source of answers to common ggplot22 questions. It is also a great place to get help, once you have created a reproducible example that illustrates your problem.
+2.  [Stack Overflow](http://stackoverflow.com/questions/tagged/ggplot2?sort=frequent&pageSize=50) is a great source of answers to common ggplot2 questions. It is also a great place to get help, once you have created a reproducible example that illustrates your problem.
