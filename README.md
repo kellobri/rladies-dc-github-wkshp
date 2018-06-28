@@ -16,6 +16,10 @@
 - Bookdown Reference: [Happy Git with R (Jenny Bryan)](http://happygitwithr.com/)
 - Video Workshop (2017): [RStudio Git/GitHub Workshop (Jenny Bryan)](https://www.rstudio.com/resources/videos/happy-git-and-gihub-for-the-user-tutorial/)
 
+### Tooling
+
+If setting up git isn't an option on your local machine or if it's already configured for a different remote, you can set up a free [RStudio Cloud](https://rstudio.cloud/) instance to use for the purposes of this learning workshop. Create a free account by signing in with your GitHub profile. 
+
 ## Basics
 
 ### Install Git
