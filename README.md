@@ -1,5 +1,9 @@
 # R-Ladies DC Git and GitHub Workshop <img src="img/rladies.png" align="right" width=200/>
 
+## Slide Deck
+
+[PDF Presenation Slides](https://github.com/rladies/meetup-presentations_dc/blob/master/GitHub-Workshop-2018/GitHubWorkshop-SlideDeck.pdf)
+
 ## Activities for Today
 
 - [Create a GitHub Account](https://github.com/)
