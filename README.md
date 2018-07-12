@@ -101,4 +101,4 @@ Discussion: Advanced Collaboration Related Topics
 - Which client you should use is largely operating system dependent
 - I don't have any personal recommendations - google: "best git clients" to get a sense of what's popular and try one out!
 
-A line I wrote on my local computer
+
