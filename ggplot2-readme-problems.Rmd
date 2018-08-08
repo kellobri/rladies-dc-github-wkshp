@@ -1,4 +1,4 @@
----
+----
   output: github_document
 ---
   
@@ -16,7 +16,14 @@ knitr::opts_chunk$set(
 
 ## Overview
 
-ggplot2 is a system for declaratively creating graphycs, based on [The Grammar of Graphics](https://www.youtube.com/watch?v=HnWuIjUw_Q8). You provide the data, tell ggplot2 how to map variables to aesthetics, what graphical primitives to use, and it takes care of the details. 
+ggplot2 is a system for declaratively creating graphics, based on [The Grammar of Graphics](https://www.youtube.com/watch?v=h-62NwWUI5c). You provide the data, tell ggplot2 how to map variables to aesthetics, what graphical primitives to use, and it takes care of the details.
+
+
+*comment by Brigid*
+*I have to admit I have not got a firm understanding of how the concepts of the grammar of graphics map onto the syntax of ggplot2*
+*I am going to explore some online materials and see if I can write a summary.  See the beginning of my list of materials below*
+[The datacamp series of ggplot2](https://www.youtube.com/watch?v=YxKr2a-Y1WE)
+[Hadley Wickham's Layerd Grammer of Graphics](http://vita.had.co.nz/papers/layered-grammar.pdf)
 
 ## Installation
 
