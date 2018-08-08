@@ -55,7 +55,7 @@ geom_point()
 ```
 
 
-## Lyfecycle
+## Lifecycle
 
 [![lifecycle](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://www.tidyverse.org/lifecycle/#stable)
 
