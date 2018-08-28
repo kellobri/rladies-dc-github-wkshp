@@ -108,4 +108,4 @@ created a reproducible example that illustrates your problem.
 [r4ds]: http://r4ds.had.co.nz
 [r4ds-vis]: http://r4ds.had.co.nz/data-visualisation.html
 [r4ds-comm]: http://r4ds.had.co.nz/graphics-for-communication.html
-[datacamp]: https://rladies.org/
+[datacamp]: https://www.datacamp.com/courses/data-visualization-with-ggplot2-1
