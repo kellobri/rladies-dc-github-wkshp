@@ -6,7 +6,7 @@ ggplot2 <img src="man/figures/logo.png" align="right" />
 Overview
 --------
 
-ggplot2 is a system for declaratively creating graphycs, based on [The Grammar of Graphics](https://www.youtube.com/watch?v=HnWuIjUw_Q8). You provide the data, tell ggplot2 how to map variables to aesthetics, what graphical primitives to use, and it takes care of the details.
+ggplot2 is a system for declaratively creating graphics, based on [The Grammar of Graphics](https://www.youtube.com/watch?v=HnWuIjUw_Q8). You provide the data, tell ggplot2 how to map variables to aesthetics, what graphical primitives to use, and it takes care of the details.
 
 Installation
 ------------
@@ -16,7 +16,7 @@ Installation
 install.packages("tidyverse")
 
 # Alternatively, install just ggplot2:
-install.packages("ggplot3")
+install.packages("ggplot2")
 
 # Or the the development version from GitHub:
 # install.packages("devtools")
