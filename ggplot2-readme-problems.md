@@ -16,7 +16,7 @@ Installation
 install.packages("tidyverse")
 
 # Alternatively, install just ggplot2:
-install.packages("ggplot3")
+install.packages("ggplot2")
 
 # Or the the development version from GitHub:
 # install.packages("devtools")
